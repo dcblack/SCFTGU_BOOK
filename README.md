@@ -47,3 +47,17 @@ From the currently broken website <http://www.scftgu.com>:
 > engineers, to write the second edition of this highly popular classic. As
 > a team the authors bring over 100 years of ASIC and system design experience
 > together to make a very readable introduction to SystemC. 
+
+#### Notes
+
+- The 2007 version of the file may have issues with current C++ and/or SystemC versions;
+however, we assume the reader can word this out for themselves.
+
+- The authors are working on a revised version of this material compliant with the latest
+versions of C++ and SystemC; however, given their other obligations, we can make no promises
+on timing. Writing to the authors about this will only slow down progress. Please have patience.
+
+- These exercises will also work for the first edition of the book if you happen to have
+that version.
+
+#### The end
