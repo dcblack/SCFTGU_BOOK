@@ -1,0 +1,50 @@
+// COPYRIGHT (C) 2004-2007 by Eklectically, Inc., a Texas corporation //
+// also doing business as Eklectic Ally Inc. , and ESLX Inc. with     //
+// headquarters in Austin, Texas in the United States of America.     //
+// Our business address is Eklectically Inc, 6217 John Chisum Lane,   //
+// Austin, TX 78749-1838 USA or e-mail info@ESLX.com                  //
+//                                                                    //
+// SOFTWARE LICENSE                                                   //
+// Permission is granted for anybody to use software accompanying     //
+// this file for any legal purposes, including commerical             //
+// applications, and to alter it and redistribute it, provided that   //
+// the following restrictions are adhered to:                         //
+//                                                                    //
+//  1. The origin of portions derived from this software must not be  //
+//     misrepresented; you must not claim that you wrote the entire   //
+//     original software. If you use this software in a product,      //
+//     an acknowledgment in the product documentation would be        //
+//     appreciated, but is not required.                              //
+//                                                                    //
+//  2. This eight paragraph licensing notice version 1.2 dated        //
+//     November 07, 2007, of which this is the fourth paragraph, may  //
+//     not be altered or removed from any source code distribution.   //
+//                                                                    //
+//  3. You may not post this software archive for download from a     //
+//     publically accessible site on the Internet. It is permissible  //
+//     to post fragments of this sofware, wherein a fragment is       //
+//     defined as a portion of a file or files and represents less    //
+//     than 10% of the downloaded software. It is also permissible    //
+//     to post links to http://www.ESLX.com/Book where others may     //
+//     request the software themselves.                               //
+//                                                                    //
+//  4. If you find errors, bugs or problems of any type within the    //
+//     code or its documentation, you agree to notify us with an      //
+//     e-mail notice to bugs@ESLX.com and include a description of    //
+//     your findings and any suggested corrections. This does not     //
+//     constitute an agreement by us to use your ideas, but does      //
+//     allow us to do so free of any encumbrences.                    //
+//                                                                    //
+// This software is provided as a professional and academic           //
+// contribution for the advancement of SystemC adoption.              //
+//                                                                    //
+// THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY         //
+// KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE         //
+// WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE    //
+// AND NONINFRINGEMENT. IN NO EVENT SHALL EKLECTIALLY, INC. OR ITS    //
+// EMPLOYEES OR CONTRACTORS OR SUBSIDIARIES BE LIABLE FOR ANY CLAIM,  //
+// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,      //
+// TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE  //
+// SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.             //
+//                                                                    //
+//-FILE:BOOK_LICENSE---3650_chars---SIGNATURE:BOOK_LICENSE.asc-----}}}//
